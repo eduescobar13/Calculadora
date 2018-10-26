@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="texto_boton_ON">ON</string>
+    <string name="texto_boton_OFF">OFF</string>
+    <string name="texto_boton_insertar_memoria">M+</string>
+    <string name="texto_boton_recuperar_memoria">MR</string>
+    <string name="texto_boton_limpiar_memoria">MC</string>
+    <string name="texto_boton_potencia_cuadrado">x^2</string>
+    <string name="texto_boton_potencia_cubo">x^3</string>
+    <string name="texto_boton_porcentaje">%</string>
+    <string name="texto_boton_raiz_cuadrada">√</string>
+    <string name="texto_boton_cambio_signo">+/-</string>
+    <string name="texto_boton_seno">sen</string>
+    <string name="texto_boton_coseno">cos</string>
+    <string name="texto_boton_tangente">tan</string>
+    <string name="texto_boton_secante">sec</string>
+    <string name="texto_boton_cosecante">csc</string>
+    <string name="texto_boton_cotangente">cot</string>
+    <string name="texto_boton_borrar_todo">AC</string>
+    <string name="texto_boton_borrar">C</string>
+    <string name="texto_boton_resultado">=</string>
+    <string name="texto_boton_suma">+</string>
+    <string name="texto_boton_resta">-</string>
+    <string name="texto_boton_producto">*</string>
+    <string name="texto_boton_division">÷</string>
+    <string name="texto_boton_punto">.</string>
+    <string name="texto_boton_numero_0">0</string>
+    <string name="texto_boton_numero_1">1</string>
+    <string name="texto_boton_numero_2">2</string>
+    <string name="texto_boton_numero_3">3</string>
+    <string name="texto_boton_numero_4">4</string>
+    <string name="texto_boton_numero_5">5</string>
+    <string name="texto_boton_numero_6">6</string>
+    <string name="texto_boton_numero_7">7</string>
+    <string name="texto_boton_numero_8">8</string>
+    <string name="texto_boton_numero_9">9</string>
+</resources>

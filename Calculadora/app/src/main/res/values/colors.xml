@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorDisplay">#353434</color>
+    <color name="colorFondo">#353434</color>
+    <color name="colorDigitosDisplay">#FCFAFA</color>
+    <color name="colorBotonesONOFF">#AF5757</color>
+    <color name="colortextoBotonesONOFF">#F9F5F5</color>
+    <color name="colorBotonesBorrar">#4b6eab</color>
+    <color name="colortextoBotonesBorrar">#F9F5F5</color>
+    <color name="colorBotonesMemoria">#4b6eab</color>
+    <color name="colortextoBotonesMemoria">#F9F5F5</color>
+    <color name="colorBotonesOperaciones">#d4ad4a</color>
+    <color name="colortextoBotonesOperaciones">#363535</color>
+    <color name="colorBotonesDigitos">#e2dfdf</color>
+    <color name="colortextoBotonesDigitos">#363535</color>
+</resources>
